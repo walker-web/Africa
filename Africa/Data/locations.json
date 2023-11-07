@@ -1,0 +1,51 @@
+[
+  {
+    "id" : "serengeti",
+    "name" : "Jim Corbett National Park",
+    "image" : "map-serengeti",
+    "latitude" : 29.5300,
+    "longitude" : 78.7747
+  },
+  {
+    "id" : "kruger",
+    "name" : "Neora Valley National Park",
+    "image" : "map-kruger",
+    "latitude" : 27.085251,
+    "longitude" : 88.700928
+  },
+  {
+    "id" : "chobe",
+    "name" : "Kaziranga National Park",
+    "image" : "map-chobe",
+    "latitude" : 26.575863,
+    "longitude" : 93.167046
+  },
+  {
+    "id" : "kidepo",
+    "name" : "Kidepo Valley National Park",
+    "image" : "map-kidepo",
+    "latitude" : 3.8495757,
+    "longitude" : 33.7525049
+  },
+  {
+    "id" : "etosha",
+    "name" : "Manas National Park",
+    "image" : "map-etosha",
+    "latitude" : 26.659424,
+    "longitude" : 91.001129
+  },
+  {
+    "id" : "solonga",
+    "name" : "Chandoli National Park",
+    "image" : "map-solonga",
+    "latitude" : 17.143744,
+    "longitude" : 73.857307
+  },
+  {
+    "id" : "tiger",
+    "name" : "Sundarban National Park",
+    "image" : "map-tiger",
+    "latitude" : 21.8359,
+    "longitude" : 88.8842
+  }
+]
